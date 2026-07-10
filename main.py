@@ -4,7 +4,7 @@ from ics import Calendar, Event
 
 TOKEN = os.environ["EVENTBRITE_TOKEN"]
 
-URL = "https://www.eventbriteapi.com/v3/users/me/orders/?expand=event&page_size=100"
+URL = "https://www.eventbriteapi.com/v3/users/me/orders/?expand=event"
 
 headers = {
     "Authorization": f"Bearer {TOKEN}"
@@ -66,7 +66,7 @@ while URL:
 
     if pagination["has_more_items"]:
         next_page = pagination["page_number"] + 1
-        URL = f"https://www.eventbriteapi.com/v3/users/me/orders/?expand=event&page={next_page}&page_size=100"
+        URL = f"https://www.eventbriteapi.com/v3/users/me/orders/?expand=event&page={next_page}"
     else:
         URL = None
 
