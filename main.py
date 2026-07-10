@@ -16,8 +16,12 @@ seen = set()
 
 while URL:
 
-    response = requests.get(URL, headers=headers)
-    response.raise_for_status()
+  response = requests.get(URL, headers=headers)
+
+print(response.status_code)
+print(response.text)
+
+response.raise_for_status()
 
     data = response.json()
 
