@@ -1,0 +1,84 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:A panel discussion featuring books recently authored or edited by Melbourne Centre for Cities Research Fellows and Associate Fellows.\n\nhttps://www.eventbrite.com.au/e/panel-event-melbourne-centre-for-cities-book-showcase-tickets-1992983115147
+DTEND:20260727T023000Z
+DTSTART:20260727T013000Z
+SUMMARY:Panel Event: Melbourne Centre for Cities Book Showcase
+UID:1992983115147
+URL:https://www.eventbrite.com.au/e/panel-event-melbourne-centre-for-cities-book-showcase-tickets-1992983115147
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Dr. Sara Webb is an Australian astrophysicist\, science communicator and author\, best known for her work on of astronomy.\n\nhttps://www.eventbrite.com.au/e/2041-space-odyssey-the-future-of-human-space-flight-tickets-1989801064548
+DTEND:20260717T100000Z
+DTSTART:20260717T080000Z
+SUMMARY:2041 Space Odyssey: The future of human space flight
+UID:1989801064548
+URL:https://www.eventbrite.com.au/e/2041-space-odyssey-the-future-of-human-space-flight-tickets-1989801064548
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Dr Karelle Siellez is an astrophysicist\,  internationally recognized for her contributions to multi-messenger astrophysics.\n\nhttps://www.eventbrite.com.au/e/painting-the-universe-a-visual-and-musical-exploration-of-space-time-tickets-1989801648294
+DTEND:20260724T100000Z
+DTSTART:20260724T080000Z
+SUMMARY:Painting the Universe: A visual and musical exploration of space-time
+UID:1989801648294
+URL:https://www.eventbrite.com.au/e/painting-the-universe-a-visual-and-musical-exploration-of-space-time-tickets-1989801648294
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:What now for the Enterprise University? Institutional autonomy in an age of increasing government intervention.\n\nhttps://www.eventbrite.com.au/e/what-now-for-the-enterprise-university-tickets-1991951085318
+DTEND:20260715T081500Z
+DTSTART:20260715T070000Z
+SUMMARY:What now for the Enterprise University?
+UID:1991951085318
+URL:https://www.eventbrite.com.au/e/what-now-for-the-enterprise-university-tickets-1991951085318
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Visit laboratories where researchers are investigating and designing materials to make our world safer\, smarter\, and more sustainable.\n\nhttps://www.eventbrite.com.au/e/lights-chemistry-action-tickets-1988964591635
+DTEND:20260811T104500Z
+DTSTART:20260811T090000Z
+SUMMARY:Lights\, chemistry\, action!
+UID:1988964591635
+URL:https://www.eventbrite.com.au/e/lights-chemistry-action-tickets-1988964591635
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Get ready to have your mind blown as we turn science into a spectacle! Join us for a high-energy show!\n\nhttps://www.eventbrite.com.au/e/physics-phantasy-tickets-1992092593573
+DTEND:20260813T013000Z
+DTSTART:20260813T003000Z
+SUMMARY:PHYSICS PHANTASY
+UID:1992092593573
+URL:https://www.eventbrite.com.au/e/physics-phantasy-tickets-1992092593573
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:This public lecture will discuss Responsive Nanoparticles: The Future of Drug Delivery\n\nhttps://www.eventbrite.com/e/school-of-chemistry-public-lecture-2026-tickets-1992533052999
+DTEND:20260916T093000Z
+DTSTART:20260916T073000Z
+SUMMARY:School of Chemistry - Public Lecture 2026
+UID:1992533052999
+URL:https://www.eventbrite.com/e/school-of-chemistry-public-lecture-2026-tickets-1992533052999
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Science at Melbourne Festival 2026\n\nhttps://www.eventbrite.com.au/e/the-art-of-infinity-escher-tilings-and-the-shape-of-space-tickets-1992799185007
+DTEND:20260817T093000Z
+DTSTART:20260817T073000Z
+SUMMARY:The Art of Infinity: Escher\, Tilings\, and the Shape of Space
+UID:1992799185007
+URL:https://www.eventbrite.com.au/e/the-art-of-infinity-escher-tilings-and-the-shape-of-space-tickets-1992799185007
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Join us for a panel discussion on the value of discovery science and the role of fundamental research in shaping the world around us.\n\nhttps://www.eventbrite.com.au/e/from-curiosity-to-change-how-discovery-science-transforms-our-world-tickets-1989628654866
+DTEND:20260812T093000Z
+DTSTART:20260812T080000Z
+SUMMARY:From curiosity to change: How discovery science transforms our world
+UID:1989628654866
+URL:https://www.eventbrite.com.au/e/from-curiosity-to-change-how-discovery-science-transforms-our-world-tickets-1989628654866
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A seminar presented by the Social and Visual Justice Research Cluster at the Melbourne Centre for Cities\, with international presenters.\n\nhttps://www.eventbrite.com.au/e/urban-visual-dialogues-4-urban-art-and-vandalism-in-marikina-and-melbourne-tickets-1992980151282
+DTEND:20260716T083000Z
+DTSTART:20260716T070000Z
+SUMMARY:Urban Visual Dialogues 4: Urban Art and Vandalism in Marikina and Melbourne
+UID:1992980151282
+URL:https://www.eventbrite.com.au/e/urban-visual-dialogues-4-urban-art-and-vandalism-in-marikina-and-melbourne-tickets-1992980151282
+END:VEVENT
+END:VCALENDAR
