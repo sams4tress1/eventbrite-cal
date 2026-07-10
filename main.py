@@ -16,7 +16,7 @@ seen = set()
 
 while URL:
 
-  response = requests.get(URL, headers=headers)
+    response = requests.get(URL, headers=headers)
 
     print(response.status_code)
     print(response.text)
