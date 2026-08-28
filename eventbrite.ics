@@ -10,6 +10,14 @@ UID:1992983115147
 URL:https://www.eventbrite.com.au/e/panel-event-melbourne-centre-for-cities-book-showcase-tickets-1992983115147
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:School of Mathematics and Statistics - Behrend Public Lecture Series.\n\nhttps://www.eventbrite.com.au/e/primes-and-zeros-tickets-1998394429534
+DTEND:20260908T080000Z
+DTSTART:20260908T070000Z
+SUMMARY:Primes and Zeros
+UID:1998394429534
+URL:https://www.eventbrite.com.au/e/primes-and-zeros-tickets-1998394429534
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Dr. Sara Webb is an Australian astrophysicist\, science communicator and author\, best known for her work on of astronomy.\n\nhttps://www.eventbrite.com.au/e/2041-space-odyssey-the-future-of-human-space-flight-tickets-1989801064548
 DTEND:20260717T100000Z
 DTSTART:20260717T080000Z
